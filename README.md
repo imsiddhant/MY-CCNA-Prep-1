@@ -8,3 +8,7 @@ B. PC0 - PC2 & PC1 - PC3 can communicate across the switches.
 LAB2:
 A. Static Routes has been setup between Router1 & Router 0.
 B. To Communicate between VLAN 10 & VLAN 20, ROAS(Router on a Stick) is implemented.
+
+LAB 3:
+A. Router 0,1,2 & 3 are connected with RIP (Routing Information Protocol) 
+B. All three networks 172.18.1.0, 10.2.1.0, 192.168.10.0 can communicate with each other using RIP
