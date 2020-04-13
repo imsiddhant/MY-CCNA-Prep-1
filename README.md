@@ -21,3 +21,8 @@ C. Floating Route on Router 15 added via interface G0/0
 LAB 5:
 A. OSPF is implemented between all five routers in this LAB. 
 B. Routers are having Router ID (1.1.1.1, 2.2.2.2, 3.3.3.3, 4.4.4.4 and 5.5.5.5)
+
+LAB 6:
+A. HSRP(Hot Standby Routing Protocol) is implemented between Router0 & Router1.
+B. A virtual Router with IP Address of 10.1.1.4 /24 is also been setup.
+C. Router1 is Active and Router0 is on Standby to take over in case of any failures.
