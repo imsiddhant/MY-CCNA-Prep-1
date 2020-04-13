@@ -17,3 +17,7 @@ LAB 4:
 A. IPV6 addresses are used (2001:0db8:0:0::/64) Range
 B. Static Routes are added via Router 15's G0/1/0 interface.
 C. Floating Route on Router 15 added via interface G0/0
+
+LAB 5:
+A. OSPF is implemented between all five routers in this LAB. 
+B. Routers are having Router ID (1.1.1.1, 2.2.2.2, 3.3.3.3, 4.4.4.4 and 5.5.5.5)
