@@ -26,3 +26,9 @@ LAB 6:
 A. HSRP(Hot Standby Routing Protocol) is implemented between Router0 & Router1.
 B. A virtual Router with IP Address of 10.1.1.4 /24 is also been setup.
 C. Router1 is Active and Router0 is on Standby to take over in case of any failures.
+
+LAB 7:
+A. A simple TACACS+ implementation has been done.
+B. Router is acting as a TACACS Client while server is providing authentication Services.
+
+
