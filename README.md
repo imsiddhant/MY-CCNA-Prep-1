@@ -37,3 +37,10 @@ B. Router is acting as a TACACS Client while server is providing authentication 
 LAB 8:
 A. In this implementation of WPA2 PSK, I have created a simple Wireless LAN where AP0, AP1 & AP2 are connected from Backbone Network (Switch 0). 
 B. Each Access Point is running WIFI on different Channels to remove Overlapping. Each AP is also configured with different Security Settings.
+
+LAB 9: 
+A. In this lab, I demonstrated the use of access control lists and how can they allow and deny certain types of traffic.
+B. Extended Access Lists are deployed.
+
+LAB 10:
+A. 
