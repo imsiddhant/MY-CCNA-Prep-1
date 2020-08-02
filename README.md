@@ -1,7 +1,7 @@
 # MY-CCNA-Prep-1
 UPDATE: I Passed my CCNA on 17th July 2020.
-..........................................
-FOR DEATILED EXPLANATION : https://www.linkedin.com/in/imsiddhantin/
+.........  
+FOR DEATILED EXPLANATION : https://youtu.be/TsSCHq3rN0M and https://www.linkedin.com/in/imsiddhantin/
 
 I'm currently preparing for my CCNA 200-301 Exam. During the preparation, I build some labs on various topics of Networking with the help of Cisco Packet Tracer.  I hope, these labs will help you too during your preparations.
 
